@@ -1,0 +1,7 @@
+com\app\SpringBatchApplication.class
+com\app\step\Processor.class
+com\app\listener\JobCompletionListener.class
+com\app\step\Writer.class
+com\app\config\BatchConfig.class
+com\app\controller\JobInvokerController.class
+com\app\step\Reader.class
